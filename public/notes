@@ -1,0 +1,3 @@
+php artisan scout:import "App\Models\Article"  ==== import the data in to meilisearch or algolia
+
+php artisan meilisearch:update     ==== create a command to help update attributes for meilible
